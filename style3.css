@@ -1,0 +1,203 @@
+body{
+    background-color: #F9F3E8;
+    }
+    .simo {
+        display:flex;
+    }
+    
+    .simo1 {
+        display:flex;
+        font-size: 32px;
+    }
+    
+    .yl3{
+        padding-top: 62px;
+    }
+    
+    .yl2{
+        padding-top: 34px;
+        color: #88BAD1;
+    }
+    
+    .ico{
+        padding-top: 70px;
+    }
+    img{
+        width: 150px;
+        padding-top: 10px;
+    }
+    .ul1{
+        margin-left: 100px;
+        padding-right: 1px;
+        font-size:x-large;
+        font-size: 3em;
+    }
+    h1{
+        padding-left: 28px;
+    }
+    
+    #nac{
+        width:27%;
+        padding-left: 28px;
+    }
+    
+    #d11{
+        border: 2px solid black;
+        padding-left: 42px;
+        /*padding-top: 180px;*/
+        margin-top: 70px;
+        padding-right: 42px;
+    }
+    
+    #d22{
+        border: 2px solid black;
+        margin-left: 20px;
+        margin-top: 70px;
+        padding-left: 42px;
+        padding-right: 42px;
+    }
+    
+    #d33{
+        border: 2px solid black;
+        margin-left: 20px;
+        margin-top: 70px;
+        padding-left: 42px;
+        padding-right: 42px;
+    }
+    
+    #d77{
+        border: 2px solid black;
+        margin-left: 20px;
+        margin-top: 70px;
+        padding-left: 42px;
+        padding-right: 42px;
+    }
+    
+    #d55{
+        border: 2px solid black;
+        margin-left: 20px;
+        margin-top: 70px;
+        padding-left: 42px;
+        padding-right: 42px;
+    }
+    
+    #d66{
+        border: 2px solid black;
+        margin-left: 20px;
+        margin-top: 70px;
+        padding-left: 42px;
+        padding-right: 42px;
+    }
+    
+    
+    #d44{
+        border: 2px solid black;
+        margin-left: 20px;
+        margin-top: 70px;
+        padding-left: 42px;
+        padding-right: 42px;
+    }
+    
+    #s1{
+        padding-bottom: 46px;
+    }
+    
+    .zero{
+        display:flex;
+        margin-left: 9px;
+        margin-left: 9px;
+        margin-left: 53px;
+        margin-right: 53px;
+        flex-wrap: wrap;
+    }
+    
+    .youf{
+        display: flex;
+    }
+    #w1{
+        padding-bottom: 13px;
+        width: 200px;
+    }
+    
+    .rr{
+        color: #B4B4B4;
+    }
+    
+    .haha{
+        font-size: 24px;
+        text-decoration: underline;
+    }
+    
+    .hoho{
+        color:#2F8A07;
+    }
+    
+    
+    #ilyass{
+        font-size: 43px;
+        border: solid 3px black;
+        border-radius: 30px;
+        margin-left: 560px;
+        height: 120px;
+    }
+    @media screen and (min-width:390px) and (max-width: 1477px) {
+        body{
+    background-color: #F9F3E8;
+    }
+        .ul1{
+            border: solid black 3px;
+            justify-content: space-between;
+        }
+        #ilyass{
+            font-size: 9px;
+            border: solid black 3px;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 9px;
+        }
+    
+        .simo{
+            padding-left: 40%;
+        }
+        .youf{
+            display: block;
+        }
+        .ul1{
+            margin-left: 10px;
+        }
+        .yl2{
+            margin-left: 15px;
+            padding-right: 1px;
+            font-size:1.5em;
+        }
+        .simo1{
+            display: flex;
+        }
+        .yl3{
+            margin-left: 15px;
+            padding-right: 1px;
+            padding-top: 20px;
+            font-size:1.5em;
+        }
+        #d11{
+            border: 2px solid black;
+            margin-left: 20px;
+            margin-top: 70px;
+            padding-left: 42px;
+            padding-right: 42px;
+        }
+        .zero{
+            display: flex;
+            justify-content: space-between;
+            
+        }
+    }
+    
+    @media print{
+        .simo1{display: none;}
+    }
+    
+    @media print{
+        .youf{display: none;}
+    }
+    
